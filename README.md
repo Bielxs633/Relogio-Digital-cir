@@ -15,3 +15,11 @@ Este projeto é um **relógio digital** simples e funcional, desenvolvido para m
 - **Exibição da Hora Atual**: Mostra a hora, minutos e segundos.
 - **Atualização em Tempo Real**: A hora é atualizada automaticamente a cada segundo.
 - **Design Simples e Limpo**: Layout minimalista para fácil leitura.
+
+---
+
+## Tecnologias utilizadas
+1. HTML
+2. CSS
+3. JavaScript
+4. Git
